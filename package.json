@@ -13,5 +13,8 @@
     "nodejs"
   ],
   "author": "Tiesha Sims",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.9.4"
+  }
 }
