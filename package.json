@@ -1,0 +1,17 @@
+{
+  "name": "simle-angular",
+  "version": "1.0.0",
+  "description": "This is a very simple angular app in vanilla javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "javescript",
+    "npm",
+    "nodejs"
+  ],
+  "author": "Tiesha Sims",
+  "license": "ISC"
+}
