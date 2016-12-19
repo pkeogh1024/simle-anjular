@@ -1,0 +1,27 @@
+{
+  "name": "simle-angular",
+  "description": "This is a very simple angular app in vanilla javascript.",
+  "main": "index.js",
+  "authors": [
+    "Tiesha Sims"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular",
+    "javescript",
+    "npm",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/pkeogh1024/simle-anjular",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.8",
+    "angular-ui-router": "^0.3.2"
+  }
+}
